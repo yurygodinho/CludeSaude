@@ -1,0 +1,29 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.cor-principal {
+    background-color: #015958 !important; 
+}
+
+
+.cor-principal-clara {
+    background-color: #669b9a !important;
+}
+
+.dropdown-menu-scrollable {
+    max-height: 200px; /* Define a altura máxima do menu */
+    overflow-y: auto; /* Permite a rolagem vertical */
+}
+
